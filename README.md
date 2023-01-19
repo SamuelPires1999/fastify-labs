@@ -1,12 +1,11 @@
-## Nodejs AIO boilerplate 2.0
+## Fastify learning lab
 
-This repo is intended to be an alternative to my original [Node js AIO boilerplate repo](https://github.com/SamuelPires1999/NodeJS-AIO-boilerplate).
+Found Fastify kinda interesting so I decided to create this repo to implemente some functionalities of my day-to-day REST api devlepment needs like:
 
-I'll be using some more "bleeding-edge" techs here such as
+- Basic crud routes
+- Middlewares
+- Schema validation with some librarie like zod
+- Testing
 
--   Vitest for testing
--   Tsup for TS compiling
+Etc.
 
-And others in the future, very experimental things.
-
-Fell free to use it as a kickstarter for your typescript Nodejs projects.
